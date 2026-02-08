@@ -13,5 +13,8 @@ Grove aims to make coding with AI feel more deliberate, controlled, and organize
 <a href="https://grovetools.ai">
   <img src="https://img.shields.io/badge/Documentation-grovetools.ai-9ca751?style=for-the-badge" alt="Documentation">
 </a>
+<a href="https://discord.gg/RBCWnzgE">
+  <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 </div>
